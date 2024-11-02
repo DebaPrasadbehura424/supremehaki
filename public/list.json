@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "Adventure in the Woods",
+        "price": "0",
+        "category": "free",
+        "image": "https://picsum.photos/400/300?image=101"  
+    },
+    {
+        "id": 2,
+        "name": "Story Book",
+        "title": "Mystery of the Lost Artifact",
+        "price": "0",
+        "category": "free",
+        "image": "https://picsum.photos/400/300?image=102"
+    },
+    {
+        "id": 3,
+        "name": "Story Book",
+        "title": "Journey Through Space",
+        "price": "20",
+        "category": "paid",
+        "image": "https://picsum.photos/400/300?image=103"
+    },
+    {
+        "id": 4,
+        "name": "Story Book",
+        "title": "The Enchanted Forest",
+        "price": "0",
+        "category": "free",
+        "image": "https://picsum.photos/400/300?image=104"
+    },
+    {
+        "id": 5,
+        "name": "Story Book",
+        "title": "Secrets of the Ocean",
+        "price": "18",
+        "category": "paid",
+        "image": "https://picsum.photos/400/300?image=105"
+    },
+    {
+        "id": 6,
+        "name": "Story Book",
+        "title": "Chronicles of Time",
+        "price": "25",
+        "category": "paid",
+        "image": "https://picsum.photos/400/300?image=106"
+    },
+    {
+        "id": 7,
+        "name": "Story Book",
+        "title": "Tales of the Unknown",
+        "price": "0",
+        "category": "free",
+        "image": "https://picsum.photos/400/300?image=107"
+    },
+    {
+        "id": 8,
+        "name": "Story Book",
+        "title": "Whispers of the Past",
+        "price": "8",
+        "category": "paid",
+        "image": "https://picsum.photos/400/300?image=108"
+    },
+    {
+        "id": 9,
+        "name": "Story Book",
+        "title": "Legends of the Sky",
+        "price": "0",
+        "category": "free",
+        "image": "https://picsum.photos/400/300?image=109"
+    },
+    {
+        "id": 10,
+        "name": "Story Book",
+        "title": "A Quest for Knowledge",
+        "price": "30",
+        "category": "paid",
+        "image": "https://picsum.photos/400/300?image=110"
+    },
+    {
+        "id": 11,
+        "name": "Story Book",
+        "title": "A Quest for Knowledge",
+        "price": "30",
+        "category": "paid",
+        "image": "https://picsum.photos/400/300?image=111"
+    }
+]
